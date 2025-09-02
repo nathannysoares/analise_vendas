@@ -155,8 +155,8 @@ Este dashboard foi desenvolvido no Power BI para análise de dados de vendas, ap
 
 ## 🎓 Créditos
 
-Este projeto foi desenvolvido com base nos conhecimentos adquiridos no curso de **Data Science Academy (DSA)**
+Este projeto foi desenvolvido com base nos conhecimentos adquiridos no curso de Power BI **Data Science Academy (DSA)**
 
 ---
 
-⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
+⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório! 
